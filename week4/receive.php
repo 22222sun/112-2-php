@@ -24,7 +24,7 @@
     echo "您的出生日期+時間是:".$sDate." ".$sTime."<br/>";
     $sEmail=$_POST["sEmail"];
     echo "您的email是:".$sEmail."<br/>";
-    //$sFile=$_POST["sFile"]; 太難了都
+    //$sFile=$_POST["sFile"]; 寫不出來:) (´_ゝ`)
     //$targer_dir = "uploads/";
     //$target_file = $target_dir;
     //move_uploaded_file($_FILES["sFile"], $target_file);
